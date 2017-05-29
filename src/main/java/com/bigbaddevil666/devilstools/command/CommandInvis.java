@@ -1,6 +1,6 @@
 package com.bigbaddevil666.devilstools.command;
 
-import ibxm.Player;
+
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.CommandException;
 import net.minecraft.command.ICommandSender;
@@ -8,10 +8,10 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.util.text.TextComponentString;
 import net.minecraft.world.World;
-import org.lwjgl.opengl.GL11;
+
 
 /**
- * Created by st8pl on 5/27/2017.
+ * Created by Bigbaddevil666 on 5/27/2017.
  */
 public class CommandInvis extends CommandBase {
 
